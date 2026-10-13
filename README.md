@@ -1,19 +1,42 @@
-# Project Repository
+# StockSim
 
-This repository will be used for team projects.
+StockSim is a mobile web app for practicing investing with virtual money, without putting real savings at risk.
 
-Several sets of instructions are included in this repository. They should each be treated as separate assignments with their own due dates and sets of requirements.
+## Product Vision
 
-1. See the [App Map & Wireframes](instructions-0a-app-map-wireframes.md) and [Prototyping](./instructions-0b-prototyping.md) instructions for the requirements of the initial user experience design of the app.
+We're building StockSim for college students and young adults aged 18-28 who are curious about investing but don't know where to start. Our goal is to give beginners a safe place to make investing decisions, see how those decisions affect a portfolio, and learn the concepts behind them. The app is intended to be mobile-first and explain unfamiliar terms without assuming prior investing experience.
 
-1. Delete the contents of this file and replace with the contents of a proper README.md, as described in the [project setup instructions](./instructions-0c-project-setup.md)
+## Proposed Experience
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
+The original proposal includes:
 
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
+- Starting with $10,000 in simulated cash.
+- Browsing stock and ETF prices, charts, and company information.
+- Practicing buying and selling stocks with virtual money.
+- Tracking holdings, portfolio value, gains, and losses.
+- Learning investing concepts through short, contextual lessons.
+- An optional leaderboard and achievement badges.
 
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
 
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
+## Project Origin
 
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
+Abhishek came up with the projet.
+
+See the [original StockSim proposal](https://github.com/Zho29/project-proposal/blob/main/README.md) for the initial concept and proposed scope.
+
+## Team
+
+Sprint 0 roles:
+
+- Hanzalah Siraj - Product Owner. GitHub: [hanza-siraj](https://github.com/hanza-siraj).
+- ZHO - Scrum Master.
+- Brittany
+
+## Contributing
+
+Read our [contribution guide](CONTRIBUTING.md) for the team's process and contribution rules.
+
+## Project Links
+
+- [Shared project repository](https://github.com/agile-students-fall2026/StockSim)
+- [Original proposal](https://github.com/Zho29/project-proposal/blob/main/README.md)
