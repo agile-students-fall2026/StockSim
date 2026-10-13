@@ -20,7 +20,7 @@ The original proposal includes:
 
 ## Project Origin
 
-Abhishek came up with the projet.
+StockSim was proposed by Abhishek. In principle, many people are afraid of losing real money, so they never try investing at all. StockSim lets them practice with virtual cash first, without that fear.
 
 See the [original StockSim proposal](https://github.com/Zho29/project-proposal/blob/main/README.md) for the initial concept and proposed scope.
 
@@ -29,7 +29,7 @@ See the [original StockSim proposal](https://github.com/Zho29/project-proposal/b
 Sprint 0 roles:
 
 - Hanzalah Siraj - Product Owner. GitHub: [hanza-siraj](https://github.com/hanza-siraj).
-- ZHO - Scrum Master.
+- Abhishek Subedi - Scrum Master GitHub: [zho29](https://github.com/zho29).
 - Brittany
 
 ## Contributing
