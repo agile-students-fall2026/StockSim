@@ -30,7 +30,7 @@ Sprint 0 roles:
 
 - Hanzalah Siraj - Product Owner. GitHub: [hanza-siraj](https://github.com/hanza-siraj).
 - Abhishek Subedi - Scrum Master GitHub: [zho29](https://github.com/zho29).
-- Brittany
+- Brittany (Yutong) Liu - GitHub: [brittany660016](https://github.com/brittany660016)
 
 ## Contributing
 
