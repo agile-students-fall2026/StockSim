@@ -2,7 +2,9 @@
 
 ## Prototype
 
-Interactive prototype link coming soon.
+[Clickable Figma Prototype](https://www.figma.com/proto/g70yswfi7eiE1ObrrkOku6/StockSim-Prototype?node-id=25-2533&p=f&t=nlbRFlCF17PWIStv-0&scaling=min-zoom&content-scaling=fixed&page-id=25%3A2532&starting-point-node-id=25%3A2533&show-proto-sidebar=1)
+
+The prototype turns the app map and wireframes below into a clickable flow.
 
 ## App Map
 
